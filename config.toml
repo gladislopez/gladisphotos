@@ -7,10 +7,10 @@ publishDir = "docs"
 [params]
     name = "Gladis"
     description = "A mystery person"
-    email = "anthony.russel42@example.com"
-    phone = "+234 23 9873237"
+    email = "gladislpz15@gmail.com"
+    phone = "+234 23 555555"
     address = "234 Hidden Pond Road, Ashland City, TN 37015"
-    year = 2017
+    year = 2019
     avatar = "images/guy.jpg"
     background = ""
     favicon = "images/gt_favicon.png"
